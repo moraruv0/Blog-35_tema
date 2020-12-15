@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+body{
+    background-color: rgb(255, 218, 115);
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 2em;
+}
+
+#blog {
+    color:green;
+}
+#title{
+    color:rgb(127, 125, 255);
+    font-family: 'Courgette', cursive;
+    margin-top: 70px;
+}
+a{
+    text-decoration: none;
+    color: rgb(127, 125, 255);
+    
+}
+p{
+    margin-bottom: 100px;
+}
+.blog{
+    display: inline;
+}
